@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-omega-nine-19.vercel.app/](https://portfolio-omega-nine-19.vercel.app/)
 
-- 💬 Ask me about **react,express.js**
+- 💬 Ask me about **React,Express.js**
 
 - 📫 How to reach me **yashsharmaniet2172@gmail.com**
 
